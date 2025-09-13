@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/Users/umamarahman/Coding/Scala-Learning/mill-build/compile-resources",
+        "ref:v0:c984eca8:/Users/umamarahman/Coding/Scala-Learning/mill-build/resources",
+        "ref:v0:aaa8b5fe:/Users/umamarahman/Coding/Scala-Learning/out/mill-build/compile.dest/transformed-classes"
+    ],
+    "valueHash": -181969571,
+    "inputsHash": 86010902
+}

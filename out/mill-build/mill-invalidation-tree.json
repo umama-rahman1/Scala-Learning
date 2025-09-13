@@ -1,0 +1,84 @@
+{
+  "scalaVersion": {
+    "zincAuxiliaryClassFileExtensions": {},
+    "compile": {
+      "codeSignatures": {}
+    },
+    "scalaLibraryMvnDeps": {},
+    "scalaOrganization": {},
+    "enablePluginScalacOptions": {},
+    "scalacPluginClasspath": {},
+    "scalaCompilerClasspath": {}
+  },
+  "mandatoryMvnDeps": {},
+  "mill.javalib.JvmWorkerModule.repositories": {
+    "mill.javalib.JvmWorkerModule.internalWorker": {},
+    "mill.javalib.JvmWorkerModule.classpath": {}
+  },
+  "cliImports": {
+    "runMvnDeps": {}
+  },
+  "zincReportCachedProblems": {},
+  "javacOptions": {},
+  "sources.super.javalib.JavaModule": {
+    "sources": {
+      "allSources": {}
+    }
+  },
+  "runClasspath.super.RunModule": {
+    "runClasspath": {
+      "millBuildRootModuleResult": {}
+    }
+  },
+  "jvmId": {},
+  "jvmIndexVersion": {
+    "javaHome": {}
+  },
+  "scalacOptions.super.scalalib.ScalaModule": {
+    "scalacOptions": {}
+  },
+  "repositories": {},
+  "millVersion": {},
+  "mvnDeps": {},
+  "bomMvnDeps": {},
+  "platformSuffix": {},
+  "mandatoryJavacOptions": {},
+  "scriptSources": {
+    "allSourceFiles": {},
+    "parseBuildFiles": {
+      "generatedScriptSources": {
+        "generatedSources": {}
+      }
+    }
+  },
+  "mill.javalib.JvmWorkerModule.checkGradleModules": {},
+  "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule": {},
+  "resources": {},
+  "depManagement": {},
+  "compileResources": {},
+  "artifactTypes": {},
+  "scalacPluginMvnDeps": {},
+  "localRunClasspath.super.RunModule": {
+    "localRunClasspath": {
+      "localClasspath": {}
+    }
+  },
+  "checkGradleModules": {},
+  "mandatoryScalacOptions": {
+    "allScalacOptions": {}
+  },
+  "compileMvnDeps": {
+    "resolvedRunMvnDeps": {},
+    "resolvedMvnDeps": {
+      "compileClasspath": {}
+    }
+  },
+  "zincIncrementalCompilation": {},
+  "upstreamCompileOutput": {},
+  "transitiveLocalClasspath": {},
+  "transitiveCoursierProjects": {},
+  "mill.javalib.JvmWorkerModule.zincLogDebug": {},
+  "unmanagedClasspath": {
+    "localCompileClasspath": {}
+  }
+}

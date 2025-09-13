@@ -1,0 +1,15 @@
+{
+    "value": {
+        "seenScripts": [
+            [
+                "/Users/umamarahman/Coding/Scala-Learning/build.mill",
+                ""
+            ]
+        ],
+        "errors": [],
+        "buildFile": "build.mill",
+        "headerData": "mill-version: 1.0.4"
+    },
+    "valueHash": -1596883264,
+    "inputsHash": 1102709910
+}
